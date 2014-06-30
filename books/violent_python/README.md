@@ -4,7 +4,7 @@
 
 
 - TJ 오커너 지음 | 김선국 역 | 번역서 | 2013년 02월 | 비제이퍼블릭 | 306쪽
-- [한빛 책 소개](http://www.yes24.com/24/goods/8433461?scode=032&OzSrank=1)
+- [책 소개](http://www.yes24.com/24/goods/8433461?scode=032&OzSrank=1)
 - [책 예제 데이터](http://booksite.elsevier.com/9781597499576/chapters.php)
 
 ## About Me
@@ -26,7 +26,5 @@
 - **'어디에 가치있는 정보가 있는지 찾아보고 Indexing 하고 나중에 직접 쓸 때 사용하라'**가 요약
 
 ## IPython으로 정리한 내용
-- [1. 소개]
-- [2. 침투 테스트]
-
-## IPython 참고 자료
+- [1. 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch01_Introduction.ipynb)
+- [2. 침투 테스트](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch02_Penetration_test.ipynb)
