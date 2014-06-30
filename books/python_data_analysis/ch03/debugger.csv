@@ -1,0 +1,14 @@
+Command, Comment
+h(elp), 명령어 목록을 보여준다.
+help command, command에 대한 문서를 보여준다.
+c(continue), 프로그램의 실행을 재개한다.
+q(uit), 더 이상 코드를 실행하지 않고 디버거를 종료한다.
+b(reak) number, 현재 파일의 number번째 줄에 브레이크포인트를 설정한다.
+b path/to/file.py:number, 지정한 파일의 number번째 줄에 브레이크포인트를 설정한다
+s(tep), 함수 호출 안으로 진입한다.
+n(ext), 현재 줄을 실행하고 같은 레벨의 다음 줄로 진행한다.
+u(p) / d(own), 함수 콜 스택(호출 정보)의 위/아래로 이동한다.
+a(rgs), 현재 함수의 인자를 보여준다.
+debug statement, statement 문장을 새로운 (재귀적) 디버거에서 실행한다.
+l(ist) statement, 현재 위치와 스택의 현재 레벨에 대한 문맥을 보여준다.
+w(here), 현재 위치에 대한 문맥과 함께 전체 스택 정보를 출력한다.

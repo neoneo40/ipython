@@ -1,0 +1,17 @@
+Command/ Comment
+%quickref/ IPython의 빠른 도움말 표시
+%magic/ 모든 매직 함수에 대한 상세 도움말 출력
+%debug/ 최근 예외 트레이스백의 하단에서 대화형 디버거로 진입
+%hist/ 명령어 입력(그리고 선택적으로 출력) 히스토리 출력
+%pdb/ 예외가 발생하면 자동적으로 디버거로 진입
+%paste/ 클립보드에서 들여쓰기가 된 채로 파이썬 코드 가져오기
+%cpaste/ 실행 파이썬 코드를 수동으로 붙여넣을 수 있는 프롬프트 표시
+%reset/ 대화형 네임스페이스에서 정의된 모든 변수와 이름을 삭제
+%page/ OBJECT 객체를 pager를 통해 보기 좋게 출력
+%run script.py/ IPython 내에서 파이썬 스크립트 실행
+%prun statement/ cProfile을 통해 statement를 실행하고 프로파일링 결과를 출력
+%time statement/ 단일 statement 실행 시간을 출력
+%timeit statement/ statement를 여러 차례 실행한 후 평균 실행 시간을 출력. 
+ / 매우 짧은 시간 안에 끝나는 코드의 시간을 측정할 때 유용
+%who, %who_ls, %whos/ 대화형 네임스페이스 내에서 정의된 변수를 다양한 방법으로 표시
+%xdel variable/ variable을 삭제하고 IPython 내부적으로 해당 객체에 대한 모든 참조를 제거
