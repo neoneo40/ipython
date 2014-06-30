@@ -29,12 +29,12 @@
 - **'어디에 가치있는 정보가 있는지 찾아보고 Indexing 하고 나중에 직접 쓸 때 사용하라'**가 요약
 
 ## IPython으로 정리한 내용
-- [1. 시작하기 전에](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch01_Preliminaries.ipynb)
-- [2. 사례 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/python_data_analysis/ch02_Introduction%20Examples.ipynb): 진행중
-- [3. IPython 소개](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch03_Introduction%20IPython.ipynb)
-- [4. NumPy 기본: 배열과 벡터 계산](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch04_Numpy.ipynb)
-- [5. Pandas 시작하기](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch05_Pandas.ipynb)
-- [6. 데이터 로딩, 저장, 파일 형식](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch06_Data%20loading.ipynb)
+- [1. 시작하기 전에](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/books/python_data_analysis/ch01_Preliminaries.ipynb)
+- [2. 사례 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch02_Introduction%20Examples.ipynb): 진행중
+- [3. IPython 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch03_Introduction%20IPython.ipynb)
+- [4. NumPy 기본: 배열과 벡터 계산](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch04_Numpy.ipynb)
+- [5. Pandas 시작하기](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch05_Pandas.ipynb)
+- [6. 데이터 로딩, 저장, 파일 형식](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch06_Data%20loading.ipynb)
 - [7. 데이터 준비하기: 다듬기, 변형, 병합](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch07_Data_prepare_fixing_transform_merge.ipynb)
 - [8. 도식화와 시각화](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch08_Plotting_and_Visualization.ipynb)
 - [9. 데이터 수집과 그룹 연산]: 진행중
