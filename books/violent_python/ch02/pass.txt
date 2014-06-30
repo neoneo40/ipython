@@ -1,0 +1,7 @@
+admin
+root
+toor
+password
+violent
+password1
+12345

@@ -1,0 +1,10 @@
+Received From: violentPython-> /var/log/auth.log
+Rule: 5712 fired (level 10) -> "SSHD brute force trying to get access to the system."
+Portion of the log(s):
+Oct 13 23:30:30 violentPython sshd[10956]: Invalid user ucla from 67.228.3.58
+Oct 13 23:30:29 violentPython sshd[10954]: Invalid user ucla from 67.228.3.58
+Oct 13 23:30:29 violentPython sshd[10952]: Invalid user oxford from 67.228.3.58
+Oct 13 23:30:28 violentPython sshd[10950]: Invalid user oxford from 67.228.3.58
+Oct 13 23:30:28 violentPython sshd[10948]: Invalid user oxford from 67.228.3.58
+Oct 13 23:30:27 violentPython sshd[10946]: Invalid user matrix from 67.228.3.58
+Oct 13 23:30:27 violentPython sshd[10944]: Invalid user matrix from 67.228.3.58
