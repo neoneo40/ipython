@@ -35,12 +35,12 @@
 - [4. NumPy 기본: 배열과 벡터 계산](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch04_Numpy.ipynb)
 - [5. Pandas 시작하기](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch05_Pandas.ipynb)
 - [6. 데이터 로딩, 저장, 파일 형식](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/python_data_analysis/ch06_Data%20loading.ipynb)
-- [7. 데이터 준비하기: 다듬기, 변형, 병합]
-- [8. 도식화와 시각화]
-- [9. 데이터 수집과 그룹 연산]
-- [10. 시계열]
-- [11. 금융, 경제 데이터 애플리케이션]
-- [12. 고급 NumPy]
+- [7. 데이터 준비하기: 다듬기, 변형, 병합](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch07_Data_prepare_fixing_transform_merge.ipynb)
+- [8. 도식화와 시각화](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch08_Plotting_and_Visualization.ipynb)
+- [9. 데이터 수집과 그룹 연산]: 진행중
+- [10. 시계열]: 진행중
+- [11. 금융, 경제 데이터 애플리케이션]: 진행중
+- [12. 고급 NumPy]: 진행중
 
 ## IPython 참고 자료
 
