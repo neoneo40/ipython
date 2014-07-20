@@ -28,3 +28,4 @@
 ## IPython으로 정리한 내용
 - [1. 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch01_Introduction.ipynb)
 - [2. 침투 테스트](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch02_Penetration_test.ipynb)
+- [3. 포렌식](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch03_forensic_investigation.ipynb)
