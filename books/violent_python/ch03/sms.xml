@@ -1,0 +1,1 @@
+<sms alt="good morning. test body_xml"><type>2</type><status>8</status><failurereason>4</failurereason><targets><target status="7">+82108008000</target></targets><price>0.078 EUR</price><body><chunk id="0">good morning. test body_xml</chunk><untilnext>133</untilnext></body><encoded_body>good morning. test body_xml</encoded_body><sendtimestamp>1405635243</sendtimestamp></sms>
