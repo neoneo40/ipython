@@ -26,6 +26,11 @@
 - **'어디에 가치있는 정보가 있는지 찾아보고 Indexing 하고 나중에 직접 쓸 때 사용하라'**가 요약
 
 ## IPython으로 정리한 내용
+
 - [1. 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch01_Introduction.ipynb)
 - [2. 침투 테스트](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch02_Penetration_test.ipynb)
 - [3. 포렌식](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch03_forensic_investigation.ipynb)
+
+## [으으리 리버싱 파으리썬 웹해으킹 페이스북](https://www.facebook.com/groups/1512856868944848/)
+
+- 리버싱, 파이썬, 웹해킹에 관한 정보 공유 및 강의 진행사항 공유
