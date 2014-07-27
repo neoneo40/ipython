@@ -30,17 +30,17 @@
 
 ## IPython으로 정리한 내용
 - [1. 시작하기 전에](http://nbviewer.ipython.org/urls/raw.github.com/re4lfl0w/ipython/master/books/python_data_analysis/ch01_Preliminaries.ipynb)
-- [2. 사례 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch02_Introduction%20Examples.ipynb): 진행중
+- [2. 사례 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch02_Introduction%20Examples.ipynb): 비공개
 - [3. IPython 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch03_Introduction%20IPython.ipynb)
 - [4. NumPy 기본: 배열과 벡터 계산](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch04_Numpy.ipynb)
 - [5. Pandas 시작하기](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch05_Pandas.ipynb)
 - [6. 데이터 로딩, 저장, 파일 형식](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch06_Data%20loading.ipynb)
 - [7. 데이터 준비하기: 다듬기, 변형, 병합](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch07_Data_prepare_fixing_transform_merge.ipynb)
 - [8. 도식화와 시각화](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_data_analysis/ch08_Plotting_and_Visualization.ipynb)
-- [9. 데이터 수집과 그룹 연산]: 진행중
-- [10. 시계열]: 진행중
-- [11. 금융, 경제 데이터 애플리케이션]: 진행중
-- [12. 고급 NumPy]: 진행중
+- [9. 데이터 수집과 그룹 연산]: 비공개
+- [10. 시계열]: 비공개
+- [11. 금융, 경제 데이터 애플리케이션]: 비공개
+- [12. 고급 NumPy]: 비공개
 
 ## IPython 참고 자료
 
@@ -55,6 +55,11 @@
 2. [사례 소개 - 김정주](http://nbviewer.ipython.org/gist/haje01/44825afdb0b54ac39150)
 4. [NumPy 기본: 배열과 벡터 계산 - 문명균](http://nbviewer.ipython.org/gist/mmk232/9616491)
 5. [pandas 시작하기 - 조근영](http://nbviewer.ipython.org/gist/re4lfl0w/9615403)
+
+## 저작권
+
+- 번역자님께 여쭤봤는데 책 내용들이 많이 들어 있다고 하시네요.
+- 그래서 8장까지만 공개하고 나머지는 공개하지 않겠습니다. 책 사서 보시면 많은 도움이 되실 겁니다.
 
 ## 책 소스 예제
 
