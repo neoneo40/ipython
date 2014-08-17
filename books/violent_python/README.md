@@ -1,6 +1,6 @@
 # 해커의 언어, 치명적 파이썬
 
-[<img src="http://image.yes24.com/goods/8433461/L" width="300px" />](http://www.yes24.com/24/goods/11043328?scode=029)
+[<img src="http://image.yes24.com/goods/8433461/L" width="300px" />](http://www.yes24.com/24/goods/8433461?scode=032&OzSrank=1)
 
 
 - TJ 오커너 지음 | 김선국 역 | 번역서 | 2013년 02월 | 비제이퍼블릭 | 306쪽
