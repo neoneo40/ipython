@@ -1,0 +1,3 @@
+category <100 100-300 >300
+Primary :     2     2     1
+Secondary:    12    11     1

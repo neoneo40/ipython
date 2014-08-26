@@ -1,0 +1,57 @@
+LOCUS       AY810830                 705 bp    mRNA    linear   HTC 22-JUN-2006
+DEFINITION  Schistosoma japonicum SJCHGC07869 protein mRNA, partial cds.
+ACCESSION   AY810830
+VERSION     AY810830.1  GI:60600350
+KEYWORDS    HTC.
+SOURCE      Schistosoma japonicum
+  ORGANISM  Schistosoma japonicum
+            Eukaryota; Metazoa; Platyhelminthes; Trematoda; Digenea;
+            Strigeidida; Schistosomatoidea; Schistosomatidae; Schistosoma.
+REFERENCE   1  (bases 1 to 705)
+  AUTHORS   Liu,F., Lu,J., Hu,W., Wang,S.Y., Cui,S.J., Chi,M., Yan,Q.,
+            Wang,X.R., Song,H.D., Xu,X.N., Wang,J.J., Zhang,X.L., Zhang,X.,
+            Wang,Z.Q., Xue,C.L., Brindley,P.J., McManus,D.P., Yang,P.Y.,
+            Feng,Z., Chen,Z. and Han,Z.G.
+  TITLE     New perspectives on host-parasite interplay by comparative
+            transcriptomic and proteomic analyses of Schistosoma japonicum
+  JOURNAL   PLoS Pathog. 2 (4), E29 (2006)
+   PUBMED   16617374
+REFERENCE   2  (bases 1 to 705)
+  AUTHORS   Liu,F., Lu,J., Hu,W., Wang,S.-Y., Cui,S.-J., Chi,M., Yan,Q.,
+            Wang,X.-R., Song,H.-D., Xu,X.-N., Wang,J.-J., Zhang,X.-L.,
+            Wang,Z.-Q., Xue,C.-L., Brindley,P.J., McManus,D.P., Yang,P.-Y.,
+            Feng,Z., Chen,Z. and Han,Z.-G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-2005) Chinese National Human Genome Center at
+            Shanghai, 351 Guo Shoujing Road, Shanghai 201203, China
+FEATURES             Location/Qualifiers
+     source          1..705
+                     /organism="Schistosoma japonicum"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:6182"
+                     /clone="SJCHGC07869"
+     CDS             <1..545
+                     /note="similar to insulin receptor precursor"
+                     /codon_start=3
+                     /product="SJCHGC07869 protein"
+                     /protein_id="AAX26719.2"
+                     /db_xref="GI:76155430"
+                     /translation="HVESDKVPVASIHATLNGPGSIRITWSNPVKPNGLIIHYLLRYR
+                     PRNHDQSYTDSNHSSSDVSLPWLTKCISMSHWSADHSEHALTSSSYIAINQKEVSRSK
+                     RGYNANSSTTDGGISIKDLSPGSYEFQILAVSLAGNGEWSPTVIFNIPFYTDHNGTIN
+                     RMFIELLLFTVCVPCMPHHV"
+ORIGIN      
+        1 ctcatgttga atctgataaa gttcctgtag catctattca tgcaacattg aatggtccgg
+       61 gaagtatccg tattacgtgg tctaatccag tcaaacctaa tggtttaatt atacattatt
+      121 tattgcggta tagaccaagg aatcatgatc agagttatac agatagtaac cattcgtctt
+      181 cagatgtgtc gctgccatgg ttgacaaaat gtatttcgat gagtcattgg tcggctgacc
+      241 attctgaaca cgcattgact tcaagttcat atatagctat taatcaaaaa gaagtatcac
+      301 gaagtaaacg tggttataat gctaatagta gtactactga tggcggaatc tcaattaaag
+      361 atttatcacc aggtagctat gaatttcaaa ttttagccgt ttctcttgct ggtaacggag
+      421 aatggagtcc aaccgtaata ttcaatattc cattctatac agaccataat ggcacaataa
+      481 accgtatgtt tatagaactc ttattattta cagtttgtgt cccatgtatg ccgcatcacg
+      541 tgtaatgttt tgattaagga gattcaaatt ttatacgttc tctcataagt gatctttact
+      601 tttaattgtg tgctctaaga atatacgcat tttcggttca atagattcta aaacaatgca
+      661 attatgagtt agatttcatt aatgcatatg taagctaatt ttcta
+//
+

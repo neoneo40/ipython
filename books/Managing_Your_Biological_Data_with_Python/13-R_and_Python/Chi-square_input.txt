@@ -1,0 +1,23 @@
+PATIENT	GENE1	GENE2
+1	H	H
+2	H	H
+3	N	N
+4	H	N
+5	N	N
+6	N	N
+7	N	N
+8	H	H
+9	N	N
+10	H	N
+11	H	H
+12	N	N
+13	N	N
+14	N	N
+15	N	N
+16	H	H
+17	H	N
+18	H	H
+19	N	H
+20	H	H
+21	N	N
+
