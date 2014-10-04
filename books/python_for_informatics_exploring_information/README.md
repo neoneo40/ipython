@@ -6,6 +6,10 @@
 - [statkclee/py4inf-kor · GitHub](https://github.com/statkclee/py4inf-kor)
 - [Python for Informatics summary - by re4lfl0w](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_for_informatics_exploring_information/Python_for_Informatics_summary.ipynb)
 
+## IPython으로 정리한 내용
+
+- [Python_for_Informatics_summary](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_for_informatics_exploring_information/Python_for_Informatics_summary.ipynb)
+
 ## 이 책을 선택한 이유
 
 - 다른 책들에서는 의미없는 파이썬을 위한 예제들만 다뤘는데 이 책에서는 200 페이지 가량 실용적인 예제들을 다루어 한 번쯤 짚고 넘어갈 필요가 있어 하게 됐다.
