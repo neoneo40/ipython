@@ -22,12 +22,13 @@
 - 지금까지 python2로 만든 것을 굳이 python3로 돌리지 말고 그냥 같이 쓰는게 좋을것 같다.
 - 어쩔 수 없이 동시에 사용해야 되는 상황만 오지 않는다면 말이지.
 - python3 에서는 되지만 python2 에서는 안되는 것도 다수 존재. 어떻게 python2에서 돌리지? 라는 생각으로 계속 살펴보게 됨
+- 이 책 정말 물건이다. 이책에 있는 내용만 잘 마스터하면 왠만한 라이브러리에 있는 것들도 모두 이해할 수 있을것 같다.
 
 ## IPython으로 정리한 내용
 
 - [1. 자료구조와 알고리즘](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch01.ipynb)
-- [2. 문자열과 텍스트]
-- [3. 숫자, 날씨, 시간]
+- [2. 문자열과 텍스트 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_01.ipynb), [2. 문자열과 텍스트 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_02.ipynb)
+- [3. 숫자, 날씨, 시간 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_01.ipynb), [3. 숫자, 날씨, 시간 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_02.ipynb)
 - [4. 이터레이터와 제너레이터]
 - [5. 파일과 입출력]
 - [6. 데이터 인코딩과 프로세싱]
