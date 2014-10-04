@@ -27,8 +27,8 @@
 ## IPython으로 정리한 내용
 
 - [1. 자료구조와 알고리즘](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch01.ipynb)
-- [2. 문자열과 텍스트 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_01.ipynb), [2. 문자열과 텍스트 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_02.ipynb)
-- [3. 숫자, 날씨, 시간 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_01.ipynb), [3. 숫자, 날씨, 시간 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_02.ipynb)
+- [2. 문자열과 텍스트 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_01.ipynb),,, [2. 문자열과 텍스트 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_02.ipynb)
+- [3. 숫자, 날씨, 시간 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_01.ipynb),,, [3. 숫자, 날씨, 시간 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_02.ipynb)
 - [4. 이터레이터와 제너레이터]
 - [5. 파일과 입출력]
 - [6. 데이터 인코딩과 프로세싱]
