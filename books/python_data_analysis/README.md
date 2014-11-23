@@ -52,9 +52,13 @@
 
 0. 파이썬 언어의 기본(제일 마지막 장, 자습) - 잘 구성되어 있음
 1. 시작하기 전에(자습)
-2. [사례 소개 - 김정주](http://nbviewer.ipython.org/gist/haje01/44825afdb0b54ac39150)
-4. [NumPy 기본: 배열과 벡터 계산 - 문명균](http://nbviewer.ipython.org/gist/mmk232/9616491)
+2. [사례 소개 - 김정주](https://www.facebook.com/groups/291278291017913/permalink/421495504662857/)
+4. [NumPy 기본: 배열과 벡터 계산 - 문명균](https://www.facebook.com/groups/291278291017913/permalink/432705793541828/)
 5. [pandas 시작하기 - 조근영](http://nbviewer.ipython.org/gist/re4lfl0w/9615403)
+6. [데이터 포딩, 저장, 파일 형식 - 임주영](https://www.facebook.com/groups/291278291017913/permalink/437726176373123/)
+7. [데이터 준비하기: 다듬기, 변형, 병합 - 김무성](https://www.facebook.com/groups/291278291017913/441635609315513/)
+8. [데이터 수집과 그룹 연산 - 김가경](https://www.facebook.com/groups/291278291017913/450265831785824/)
+9. [파이썬을 활용한 데이터분석 - 정리 자료](https://www.facebook.com/notes/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%99%84%EB%A3%8C/243588705812557)
 
 ## 저작권
 
