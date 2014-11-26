@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>WindowMover</string>
+	<key>CFBundleIdentifier</key>
+	<string>co.hooloovoo.WindowMover</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>WindowMover</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5.3</string>
+	<key>CFBundleSignature</key>
+	<string>WnMv</string>
+	<key>CFBundleVersion</key>
+	<string>54</string>
+	<key>X11Support</key>
+	<array>
+		<string>org.x.X11</string>
+		<string>org.macosforge.xquartz.X11</string>
+	</array>
+</dict>
+</plist>

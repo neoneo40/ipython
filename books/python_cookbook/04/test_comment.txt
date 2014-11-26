@@ -1,0 +1,11 @@
+###
+# User Database
+#
+# Note that
+# in single-user
+# Open Directory
+#
+#
+nobody:*:
+root:*:0
+# end line

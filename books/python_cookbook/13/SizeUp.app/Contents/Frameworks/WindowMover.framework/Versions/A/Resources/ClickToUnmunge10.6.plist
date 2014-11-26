@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>com.google.picasa</string>
+	<string>com.atebits.tweetie-mac</string>
+	<string>com.autodesk.Maya.2009</string>
+	<string>com.autodesk.Maya.2010</string>
+	<string>com.pokerstars.PokerStars</string>
+	<string>com.microsoft.Messenger</string>
+	<string>Microsoft/com.microsoft.Messenger</string>
+	<string>com.eastgate.Tinderbox</string>
+	<string>com.bluemangolearningsystems.screensteps3-mac</string>
+	<string>com.apple.Xcode</string>
+	<string>co.hooloovoo.TestWindowClickToUnmunge</string>
+</array>
+</plist>

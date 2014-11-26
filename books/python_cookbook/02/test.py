@@ -13,9 +13,4 @@ def matchcase(word):
 
 text = 'UPPER PYTHON, lower python, Mixed Python'
 print( re.sub('python', matchcase('snake'), text, flags=re.IGNORECASE) )
-python()
-..
-python
-python...
 
-python2

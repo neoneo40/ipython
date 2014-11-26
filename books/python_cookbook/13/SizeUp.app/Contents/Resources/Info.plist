@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>sizeuplicense</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>License.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>License File</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSHandlerRank</key>
+			<string>Default</string>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>XML</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>SizeUp.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.irradiatedsoftware.${PRODUCT_NAME:identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.6.1</string>
+	<key>CFBundleSignature</key>
+	<string>SzUp</string>
+	<key>CFBundleVersion</key>
+	<string>1330</string>
+	<key>CMSubmitURL</key>
+	<string>http://www.irradiatedsoftware.com/crashreporter/submit.php</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.5.8</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>OSAScriptingDefinition</key>
+	<string>SizeUp.sdef</string>
+	<key>SUEnableSystemProfiling</key>
+	<true/>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUExpectsDSASignature</key>
+	<string>true</string>
+	<key>SUFeedURL</key>
+	<string>http://www.irradiatedsoftware.com/updates/profiles/sizeup.php</string>
+	<key>SUPublicDSAKeyFile</key>
+	<string>dsa_pub.pem</string>
+</dict>
+</plist>

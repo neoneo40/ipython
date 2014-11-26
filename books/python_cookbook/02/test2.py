@@ -1,20 +1,21 @@
-import time
-def tail(f):
-    f.seek(0, 2)
-    while True:
-        line = f.readline()
-        if not line:
-            time.sleep(0.1)
-            continue
-        yield line
+from collections import deque
 
-def grep(lines, searchtext):
-    for line in lines:
-        if searchtext in line:
+class linehistory:
+    def __init__(self, lines):
+        self.lines = lines
+        self.history = deque(maxlen=3)
+
+    def __iter__(self):
+        for lineno, line in enumerate(self.lines, 1):
+            self.history.append((lineno, line))
             yield line
 
-wwwlog = tail(open('test.py'))
-pylines = grep(wwwlog, 'python')
+    def clear(self):
+        self.history.clear()
 
-for line in pylines:
-    print(line)
+with open('../04/creating_data_processing_pipelines/example.py') as f:
+    lines = linehistory(f)
+    for line in lines:
+        if 'python' in line:
+            for lineno, line in lines.history:
+                print('{}:{}'.format(lineno, line), end='')
