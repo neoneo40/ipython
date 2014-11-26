@@ -16,21 +16,25 @@
 
 - 유명한 라이브러리들을 살펴보는데 몇 가지 익숙하지 않은 문법들이 존재했다. 나름 파이썬 공부 많이했다고 생각했는데 이것들을 이해할 수가 없으니 짜증이 남
 - 이해할 수 없으니 내가 구상하는 것을 만들 수가 없음
-- 혹여 파이썬 기본은 다 뗐다라고 자부하시는 분들은 이 책을 보길 강추..'천외천'이 생각남
+- 혹여 파이썬 기본은 다 뗐다라고 자부하시는 분들은 이 책을 보길 강추..'**천외천**'이 생각남
 - [Pycon2014 in Seoul](http://www.pycon.kr/2014/programs/schedule/)에서 나타났듯이 python3를 써도 괜찮은듯..
 - 라이브러리들은 python3를 지원한다고 해도 내가 작성한 것들을 모두 수정해야 되는 상황이 발생
 - 지금까지 python2로 만든 것을 굳이 python3로 돌리지 말고 그냥 같이 쓰는게 좋을것 같다.
 - 어쩔 수 없이 동시에 사용해야 되는 상황만 오지 않는다면 말이지.
 - python3 에서는 되지만 python2 에서는 안되는 것도 다수 존재. 어떻게 python2에서 돌리지? 라는 생각으로 계속 살펴보게 됨
 - 이 책 정말 물건이다. 이책에 있는 내용만 잘 마스터하면 왠만한 라이브러리에 있는 것들도 모두 이해할 수 있을것 같다.
+- Reference 책인데 이렇게 다 봐도 되나? 라는 생각이 들었지만 어차피 파이썬을 쓰다보면 부딪혀야 되는 상황들이다. 미리 겪는게 나은듯..한 마디로 **지금은 확장해서 프로브 많이 뽑는 시기**
+- 함수형 프로그래밍... 이게 가장 난해하고 어려운것 같다. 이해도 잘 안되고.. **이걸 어떻게 내 몸에 체화시키지??** 아무리 간단한 것이라도 함수형 프로그래밍으로 먼저 작성?! 그게 **하나씩 쌓이다보면 자연스럽게 될 날이 오겠지?!**
+- 소스코드가 순서대로 정리되어 있지 않아서 어떤 소스인지 찾기가 힘들다. 
+- 대부분 소스가 제대로 안 돌아가는 경우 내가 오타낸 경우가 80%, print문 실수 10%, 책 실수 10%(이 정도면 정말 오타가 거의 없는거나 마찬가지)
 
 ## IPython으로 정리한 내용
 
 - [1. 자료구조와 알고리즘](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch01.ipynb)
 - [2. 문자열과 텍스트 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_01.ipynb),,, [2. 문자열과 텍스트 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_02.ipynb)
 - [3. 숫자, 날씨, 시간 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_01.ipynb),,, [3. 숫자, 날씨, 시간 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_02.ipynb)
-- [4. 이터레이터와 제너레이터]
-- [5. 파일과 입출력]
+- [4. 이터레이터와 제너레이터](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch04.ipynb)
+- [5. 파일과 입출력01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch05_01.ipynb),,, [5. 파일과 입출력02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch05_02.ipynb)
 - [6. 데이터 인코딩과 프로세싱]
 - [7. 함수]
 - [8. 클래스와 객체]
@@ -59,4 +63,5 @@
 
 ## Python3 전환기
 
+- Version: Python 3.4.1
 - print 'Hello World' vs print('Hello World'), 이게 가장 많이 뜨는 오류다. 괄호가 별거 아닌것 같은데 계속 붙여주기가 엄청 귀찮다.
