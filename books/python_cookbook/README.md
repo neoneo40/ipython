@@ -31,20 +31,29 @@
 ## IPython으로 정리한 내용
 
 - [1. 자료구조와 알고리즘](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch01.ipynb)
-- [2. 문자열과 텍스트 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_01.ipynb),,, [2. 문자열과 텍스트 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_02.ipynb)
-- [3. 숫자, 날씨, 시간 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_01.ipynb),,, [3. 숫자, 날씨, 시간 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_02.ipynb)
+- [2. 문자열과 텍스트 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_01.ipynb)
+- [2. 문자열과 텍스트 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch02_02.ipynb)
+- [3. 숫자, 날씨, 시간 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_01.ipynb)
+- [3. 숫자, 날씨, 시간 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch03_02.ipynb)
 - [4. 이터레이터와 제너레이터](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch04.ipynb)
-- [5. 파일과 입출력01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch05_01.ipynb),,, [5. 파일과 입출력02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch05_02.ipynb)
-- [6. 데이터 인코딩과 프로세싱]
-- [7. 함수]
-- [8. 클래스와 객체]
-- [9. 메타 프로그래밍]
-- [10. 모듈과 패키지]
-- [11. 네트워크와 웹 프로그래밍]
-- [12. 병렬 처리]
-- [13. 유틸리티 스크립트와 시스템 관리]
-- [14. 테스팅, 디버깅, 예외]
-- [15. C확장]
+- [5. 파일과 입출력01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch05_01.ipynb)
+- [5. 파일과 입출력02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch05_02.ipynb)
+- [6. 데이터 인코딩과 프로세싱](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch06_.ipynb)
+- [7. 함수](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch07.ipynb)
+- [8. 클래스와 객체 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch08_01.ipynb)
+- [8. 클래스와 객체 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch08_02.ipynb)
+- [9. 메타 프로그래밍 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch09_01.ipynb)
+- [9. 메타 프로그래밍 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch09_02.ipynb)
+- [10. 모듈과 패키지 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch10_01.ipynb)
+- [10. 모듈과 패키지 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch10_02.ipynb)
+- [11. 네트워크와 웹 프로그래밍 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch11_01.ipynb)
+- [11. 네트워크와 웹 프로그래밍 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch11_02.ipynb)
+- [12. 병렬 처리 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch12_01.ipynb)
+- [12. 병렬 처리 02](): 진행중
+- [13. 유틸리티 스크립트와 시스템 관리](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch13.ipynb)
+- [14. 테스팅, 디버깅, 예외 01](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch14_01.ipynb)
+- [14. 테스팅, 디버깅, 예외 02](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/python_cookbook/ch14_02.ipynb)
+- [15. C확장](): 진행중
 
 ## 이 책의 주제
 
