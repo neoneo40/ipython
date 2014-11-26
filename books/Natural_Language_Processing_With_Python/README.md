@@ -20,16 +20,16 @@
 
 - [1. Language Processing and Python](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Natural_Language_Processing_With_Python/ch01.ipynb)
 - [2. Accessing Text Corpora and Lexical Resources](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Natural_Language_Processing_With_Python/ch02.ipynb)
-- [3. Processing Raw Text]()
-- [4. Writing Structured Programs]()
-- [5. Categorizing and Tagging Words]()
-- [6. Learning to Classify Text]()
-- [7. Extracting Information from Text]()
-- [8. Analyzing Sentence Structure]()
-- [9. Building Freature-Based Grammars]()
-- [10. Analyzing the Meaning of Sentences]()
-- [11. Managing Liguistic Data]()
-- [etc]()
+- [3. Processing Raw Text](): 진행중
+- [4. Writing Structured Programs](): 진행중
+- [5. Categorizing and Tagging Words](): 진행중
+- [6. Learning to Classify Text](): 진행중
+- [7. Extracting Information from Text](): 진행중
+- [8. Analyzing Sentence Structure](): 진행중
+- [9. Building Freature-Based Grammars](): 진행중
+- [10. Analyzing the Meaning of Sentences](): 진행중
+- [11. Managing Liguistic Data](): 진행중
+- [etc](): 진행중
 
 ## 이 책의 주제
 
