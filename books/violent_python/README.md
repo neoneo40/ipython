@@ -30,6 +30,7 @@
 - [1. 소개](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch01_Introduction.ipynb)
 - [2. 침투 테스트](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch02_Penetration_test.ipynb)
 - [3. 포렌식](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch03_forensic_investigation.ipynb)
+- [4. 네트워크 트래픽 분석](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/violent_python/ch04_Network_traffic_analysis.ipynb): 진행중
 
 ## [으으리 리버싱 파으리썬 웹해으킹 페이스북](https://www.facebook.com/groups/1512856868944848/)
 
