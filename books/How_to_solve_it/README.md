@@ -2,8 +2,8 @@
 
 ## How to solve it(수학적 사고 방법)
 
-<img src="http://ecx.images-amazon.com/images/I/616TQZ4i9EL.jpg" width=300 />
-- 구종만 지음 | 인사이트 | 1062쪽
+<img src="http://image.yes24.com/goods/325507/L" width=300 />
+- G. 폴리아 저/우정호 역  | 교우사(오판근) | 338 쪽
 - [책 소개](http://www.yes24.com/24/goods/325507?scode=032&OzSrank=1)
 
 ## 이 책을 선택한 이유
