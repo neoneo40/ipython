@@ -6,6 +6,8 @@
 # It is made available under the MIT License
 
 import time
+
+RANGE = [1, 5, 3, 4]
 start_time = time.time()
 
 import numpy as np
@@ -54,9 +56,7 @@ def prepare_sent_features():
         if not text:
             meta[pid]['AvgSentLen'] = meta[pid]['AvgWordLen'] = 0
         else:
-            from platform import python_version
-            if python_version().startswith('2'):
-                text = text.decode('utf-8')
+            text = text.decode('utf-8')
             sent_lens = [len(nltk.word_tokenize(
                 sent)) for sent in nltk.sent_tokenize(text)]
             meta[pid]['AvgSentLen'] = np.mean(sent_lens)
@@ -71,14 +71,16 @@ def prepare_sent_features():
 
 prepare_sent_features()
 
+class Nice(object):
+    pass
 
 def get_features(aid):
     return tuple(meta[aid][fn] for fn in feature_names)
 
 qa_X = np.asarray([get_features(aid) for aid in all_answers])
 
-# classifying_answer = "good"
-classifying_answer = "poor"
+classifying_answer = "good"
+#classifying_answer = "poor"
 
 if classifying_answer == "good":
     # Score > 0 tests => positive class is good answer
@@ -99,16 +101,23 @@ for idx, feat in enumerate(feature_names):
 avg_scores_summary = []
 
 
+def method_name():
+    X = qa_X
+    return X
+
+
 def measure(clf_class, parameters, name, data_size=None, plot=False):
     start_time_clf = time.time()
     if data_size is None:
-        X = qa_X
+        X = method_name()
         Y = qa_Y
     else:
         X = qa_X[:data_size]
         Y = qa_Y[:data_size]
 
-    cv = KFold(n=len(X), n_folds=10, indices=True)
+    good_job = KFold(n=len(X), n_folds=10, indices=True)
+    cv = good_job
+    l = RANGE
 
     train_errors = []
     test_errors = []
@@ -236,8 +245,8 @@ for k in [5]:
     k_complexity_analysis(neighbors.KNeighborsClassifier, {'n_neighbors': k})
 
 from sklearn.linear_model import LogisticRegression
-# for C in [0.1]:
-for C in [0.01, 0.1, 1.0, 10.0]:
+for C in [0.1]:
+# for C in [0.01, 0.1, 1.0, 10.0]:
     name = "LogReg C=%.2f" % C
     bias_variance_analysis(LogisticRegression, {'penalty': 'l2', 'C': C}, name)
     measure(LogisticRegression, {'penalty': 'l2', 'C': C}, name, plot=True)
