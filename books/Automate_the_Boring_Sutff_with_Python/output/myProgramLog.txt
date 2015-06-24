@@ -1,0 +1,4 @@
+ 2015-06-02 17:51:13,041 - CRITICAL - Critical error! Critical error!
+ 2015-06-02 17:51:13,041 - CRITICAL - Critical error! Critical error!
+ 2015-06-02 17:51:13,041 - ERROR - Error! Error!
+ 2015-06-02 17:51:13,041 - INFO - Info!

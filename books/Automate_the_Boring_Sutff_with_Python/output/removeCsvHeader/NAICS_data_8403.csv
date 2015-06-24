@@ -1,0 +1,193 @@
+NAICS,NAICS Description,Item,Tax Status,Employer Status,2012 Revenue,2011 Revenue,2010 Revenue,2012 Coefficient of Variation,2011 Coefficient of Variation,2010 Coefficient of Variation
+6215,Medical and Diagnostic Laboratories ,Hospitals ,All Establishments ,Employer Firms ,"4,184","4,223","4,027",7.2,6.3,6.7
+5112,Software Publishers ,Total operating revenue ,All Establishments ,Employer Firms ,"161,744","156,806","145,425",1.9,1.7,1.6
+56151,Travel Agencies ,Commissions or fees from computerized reservation systems ,All Establishments ,Employer Firms ,746,749,723,7.8,6.3,6.7
+5417,Scientific Research and Development Services ,Basic and applied research in the social sciences and humanities ,Establishments subject to federal income tax ,Employer Firms ,"1,278","1,208","1,133",6.9,6.5,6.5
+54181,Advertising Agencies ,Sales promotion ,All Establishments ,Employer Firms ,980,"1,012",989,23.5,8.7,9.6
+481,Air Transportation ,All other operating revenue ,All Establishments ,Employer Firms ,"18,677","18,238","15,756",4,3.4,3.7
+621391,Offices of Podiatrists ,Other patient care revenue ,All Establishments ,Employer Firms ,299,257,229,19.1,20,16.4
+5231X ,Commodity Contracts Dealing and Brokerage8 ,All other operating revenue ,All Establishments ,Employer Firms ,"6,278","6,235","5,725",3.9,3.4,4.1
+813,"Religious, Grantmaking, Civic, Professional, and Similar Organizations12 ",Investment and property income ,All Establishments ,Employer Firms ,"19,957","15,183","20,002",6.4,7.5,7.3
+621493,Freestanding Ambulatory Surgical and Emergency Centers ,"Contributions, gifts, and grants received ",All Establishments ,Employer Firms ,S,S,S,S,S,S
+5172,Wireless Telecommunications Carriers (except Satellite)3 ,Mobile telephony ,All Establishments ,Employer Firms ,"54,472","56,179","56,418",1.6,0.9,0.8
+54131,Architectural Services ,Non-residential building projects ,All Establishments ,Employer Firms ,"17,799","17,903","17,626",7.6,6.8,6.3
+5174,Satellite Telecommunications ,All other operating revenue ,All Establishments ,Employer Firms ,"2,060","2,147",S,3.8,5.5,S
+5231Y ,Investment Banking and Securities Dealing and Brokerage7 ,Financial planning and investment management services for businesses and governments ,All Establishments ,Employer Firms ,"9,929","10,975","11,617",3.5,2.7,4
+7111,Performing Arts Companies ,Total operating revenue ,Establishments subject to federal income tax ,Employer Firms ,"11,022","11,334","10,327",5.6,5.5,4.6
+51919,All Other Information Services ,Information services ,All Establishments ,Employer Firms ,350,281,272,9.7,9.6,7.7
+51213,Motion Picture and Video Exhibition ,Rental of retail space (concessionaire space in movie theaters) ,All Establishments ,Employer Firms ,70,62,61,10.5,8.9,9.8
+5415,Computer Systems Design and Related Services ,"Computer systems design, development, and integration ",All Establishments ,Employer Firms ,"39,149","36,178","34,659",5.7,4.9,5
+621399,Offices of All Other Miscellaneous Health Practitioners ,Patient out-of-pocket - Patients' assigned Social Security benefits ,All Establishments ,Employer Firms ,S,S,S,S,S,S
+621492,Kidney Dialysis Centers ,Patient out-of-pocket - Payments from patients and their families ,All Establishments ,Employer Firms ,97,103,101,3.2,3.2,2.3
+5152,Cable and Other Subscription Programming ,Advertising and program revenue - Licensing of rights to broadcast specialty programming protected by copyright ,All Establishments ,Employer Firms ,"36,764","33,821","31,354",0.7,0.7,0.7
+2213,"Water, Sewage and Other Systems ",Water sales ,All Establishments ,Employer Firms ,"8,627","8,292","8,033",2.6,2,2.1
+54182,Public Relations Agencies ,Media monitoring and analysis ,All Establishments ,Employer Firms ,93,97,63,17.3,17.4,22.9
+2211,"Electric Power Generation, Transmission and Distribution ",All other operating revenue ,All Establishments ,Employer Firms ,"8,062","8,612","6,646",7.9,7.3,6.4
+62141,Outpatient Care Centers ,Patient out-of-pocket - Payments from patients and their families ,All Establishments ,Employer Firms ,602,567,542,4.4,5,4.4
+483,Water Transportation ,Other transportation of passengers by water ,All Establishments ,Employer Firms ,77,73,77,22.5,21.6,12.2
+62142,Outpatient Mental Health and Substance Abuse Centers ,"Government (includes Medicare, Medicaid, Other Government, and Workers Compensation) ",All Establishments ,Employer Firms ,"8,521","8,134","7,846",5.3,4.9,4.5
+621399,Offices of All Other Miscellaneous Health Practitioners ,Total operating revenue ,All Establishments ,Employer Firms ,"5,064","4,779","4,463",4.5,4,4.6
+5417,Scientific Research and Development Services ,"Contributions, gifts, and grants received ",Establishments exempt from federal income tax ,Employer Firms ,"10,647","10,313","9,712",3.2,3,2.6
+5417,Scientific Research and Development Services ,All other operating revenue ,Establishments subject to federal income tax ,Employer Firms ,"38,186","33,406","33,151",7.3,6.5,6
+56299,All Other Waste Management Services ,Total operating revenue ,All Establishments ,Employer Firms ,"4,689","4,126","3,750",5,5.3,5
+5239X ,Portfolio Management and Investment Advice9 ,Financial planning and investment management services for businesses and governments ,All Establishments ,Employer Firms ,"90,679","86,267","76,236",4.1,4.2,4
+5231Y ,Investment Banking and Securities Dealing and Brokerage7 ,Financial planning and investment management services for individuals ,All Establishments ,Employer Firms ,"15,713","14,430","13,933",2.6,2.1,2.2
+5121x ,Motion Picture and Video Production and Distribution1 ,Merchandise licensing ,All Establishments ,Employer Firms ,837,769,546,5.5,3.5,3.7
+62142,Outpatient Mental Health and Substance Abuse Centers ,Other patient care revenue ,All Establishments ,Employer Firms ,"1,138","1,228","1,204",11.5,9.5,9.7
+522,Credit Intermediation and Related Activities ,Total operating revenue ,All Establishments ,Employer Firms ,"1,032,590","1,048,400","1,120,199",1.7,1.4,1.4
+486,Pipeline Transportation ,Total operating revenue ,All Establishments ,Employer Firms ,"36,396","35,948","33,665",Z,Z,Z
+5621,Waste Collection ,Residential nonhazardous waste and recyclable material collection services ,All Establishments ,Employer Firms ,"16,639","16,626","15,805",5,5.1,5.1
+54186,Direct Mail Advertising ,Print services for direct mail advertising materials ,All Establishments ,Employer Firms ,"1,739","1,762","1,696",6.2,7.3,7.9
+54131,Architectural Services ,Landscape architectural services ,All Establishments ,Employer Firms ,106,121,166,23.4,15.8,22.1
+6233,Community Care Facilities for the Elderly ,Other patient care revenue ,All Establishments ,Employer Firms ,"2,862","2,685","2,578",12,11.4,11.6
+481,Air Transportation ,"Domestic, scheduled passenger transportation by air ",All Establishments ,Employer Firms ,"102,292","97,460","83,257",4.1,3,2.8
+5172,Wireless Telecommunications Carriers (except Satellite)3 ,Mobile all distance ,All Establishments ,Employer Firms ,"63,321","60,765",S,0.9,0.9,S
+5171,Wired Telecommunications Carriers2 ,Fixed services - Fixed all distance telephony ,All Establishments ,Employer Firms ,"2,567","2,747","2,754",7.2,5.1,5.8
+483,Water Transportation ,Cruises ,All Establishments ,Employer Firms ,"15,329","14,812","14,422",0.1,0.3,0.3
+6212,Offices of Dentists ,Patient out-of-pocket - Payments from patients and their families ,All Establishments ,Employer Firms ,"41,719","40,048","38,855",3.6,2.7,2.3
+54133,Engineering Services ,"Commercial, public, and institutional engineering projects ",All Establishments ,Employer Firms ,"13,718","12,054","10,611",21.6,21.8,20
+5417,Scientific Research and Development Services ,All other non-operating revenue ,Establishments exempt from federal income tax ,Employer Firms ,647,416,735,10,14.3,7.9
+54161,Management Consulting Services10 ,All other consulting revenue ,All Establishments ,Employer Firms ,"21,628","20,259","17,944",6.6,6.3,5.7
+54133,Engineering Services ,All other operating revenue ,All Establishments ,Employer Firms ,"34,356","40,408","40,694",12.4,11.2,11.7
+813,"Religious, Grantmaking, Civic, Professional, and Similar Organizations12 ",Total revenue ,All Establishments ,Employer Firms ,"181,359","172,321","170,069",1.7,1.7,1.6
+6216,Home Health Care Services ,Other patient care revenue ,All Establishments ,Employer Firms ,"2,511","2,379","2,304",18.8,11.7,10.8
+2211,"Electric Power Generation, Transmission and Distribution ",All other operating revenue ,All Establishments ,Employer Firms ,"8,062","8,612","6,646",7.9,7.3,6.4
+6232,"Residential Intellectual and Developmental Disability, Mental Health and Substance Abuse Facilities11 ",Other patient care revenue ,All Establishments ,Employer Firms ,"1,824","1,794","1,801",11.9,10.3,10.2
+62132,Offices of Optometrists ,"Government (includes Medicare, Medicaid, Other Government, and Workers Compensation) ",All Establishments ,Employer Firms ,"1,768","1,631","1,587",3.3,3.9,3.8
+6231,Nursing Care Facilities (Skilled Nursing Facilities)11 ,Investment and property income ,All Establishments ,Employer Firms ,299,291,330,17.6,14.4,13.5
+483,Water Transportation ,Participatory recreational services by water craft ,All Establishments ,Employer Firms ,S,S,S,S,S,S
+5239X ,Portfolio Management and Investment Advice9 ,Trust products ,All Establishments ,Employer Firms ,"6,083","5,424","5,377",6.2,5.9,8
+51224,Sound Recording Studios ,Sound recording studio rental and leasing ,All Establishments ,Employer Firms ,51,48,50,20.2,17.9,16.4
+485,Transit and Ground Passenger Transportation ,"Local, passenger transportation by road except fixed route ",All Establishments ,Employer Firms ,"13,423","12,756","12,129",3,2.9,2.4
+7111,Performing Arts Companies ,Total operating revenue ,Establishments subject to federal income tax ,Employer Firms ,"11,022","11,334","10,327",5.6,5.5,4.6
+6231,Nursing Care Facilities (Skilled Nursing Facilities)11 ,Total operating revenue ,All Establishments ,Employer Firms ,"112,506","110,305","105,297",2.2,2.1,2.1
+51223,Music Publishers ,Total operating revenue ,All Establishments ,Employer Firms ,"3,879","3,867","3,793",2.3,2.5,2.3
+51223,Music Publishers ,Sale of recordings ,All Establishments ,Employer Firms ,143,153,123,6.4,4.9,4.7
+6115,Technical and Trade Schools ,"Occupational, technical, and trade; professional development; and management training programs and courses ",All Establishments ,Employer Firms ,"13,365","13,394","12,801",4.4,4.9,3.7
+5152,Cable and Other Subscription Programming ,Advertising and program revenue - Licensing of rights to broadcast specialty programming protected by copyright ,All Establishments ,Employer Firms ,"36,764","33,821","31,354",0.7,0.7,0.7
+51222,Integrated Record Production/Distribution ,Licensing revenue - Licensing of rights to use musical compositions ,All Establishments ,Employer Firms ,"1,167","1,126","1,040",2.5,2.4,2.4
+51112,Periodical Publishers ,Periodicals - subscriptions & sales ,All Establishments ,Employer Firms ,"14,027","12,790","12,608",7.5,7.4,5.9
+5171,Wired Telecommunications Carriers2 ,Rental of telecommunications equipment ,All Establishments ,Employer Firms ,"1,169","1,165","1,292",0.9,2.5,2.1
+56292,Material Recovery Facilities ,Other waste management services ,All Establishments ,Employer Firms ,43,30,29,26.3,6.2,5.8
+518,"Data Processing, Hosting, and Related Services5 ",All other operating revenue ,All Establishments ,Employer Firms ,S,"10,746","9,675",S,5.3,5.4
+5121x ,Motion Picture and Video Production and Distribution1 ,All other operating revenue ,All Establishments ,Employer Firms ,"4,110","3,876","3,859",5,4.3,3.4
+518,"Data Processing, Hosting, and Related Services5 ",Total operating revenue ,All Establishments ,Employer Firms ,"88,670","82,203","76,156",3.9,3.6,3.6
+51222,Integrated Record Production/Distribution ,Licensing revenue - Licensing of rights to use musical compositions ,All Establishments ,Employer Firms ,"1,167","1,126","1,040",2.5,2.4,2.4
+484,Truck Transportation ,Total operating revenue ,All Establishments ,Employer Firms ,"230,632","215,884","194,616",1.4,1.5,1.4
+6215,Medical and Diagnostic Laboratories ,All other health care providers ,All Establishments ,Employer Firms ,836,756,701,19.3,20,18.6
+56292,Material Recovery Facilities ,Sale or brokerage of nonhazardous recyclable material ,All Establishments ,Employer Firms ,"1,986","2,281","1,843",5.1,5.4,5.2
+5417,Scientific Research and Development Services ,Basic and applied research in the biological and biomedical sciences ,Establishments exempt from federal income tax ,Employer Firms ,"4,314","4,138","3,994",5.4,5.4,5.8
+6211,Offices of Physicians ,All other non-patient care revenue ,All Establishments ,Employer Firms ,"19,595","15,992","14,800",6,6.7,5.5
+54131,Architectural Services ,Landscape architectural services ,All Establishments ,Employer Firms ,106,121,166,23.4,15.8,22.1
+621491,Other Outpatient Care Centers ,"Government (includes Medicare, Medicaid, Other Government, and Workers Compensation) ",All Establishments ,Employer Firms ,"1,360","1,304","1,206",3.7,3.7,3.8
+6115,Technical and Trade Schools ,"Occupational, technical, and trade; professional development; and management training programs and courses ",All Establishments ,Employer Firms ,"13,365","13,394","12,801",4.4,4.9,3.7
+518,"Data Processing, Hosting, and Related Services5 ",Total operating revenue ,All Establishments ,Employer Firms ,"88,670","82,203","76,156",3.9,3.6,3.6
+6239,Other Residential Care Facilities ,Investment and property income ,All Establishments ,Employer Firms ,212,203,225,7.1,5.1,6.5
+56132,Temporary Help Services ,Temporary staffing services ,All Establishments ,Employer Firms ,"99,446","89,733","79,790",4.1,3.2,3.3
+51219,Postproduction Services and Other Motion Picture and Video Industries ,Motion picture film laboratory services ,All Establishments ,Employer Firms ,S,320,419,S,3.6,2.4
+5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services ","Bookkeeping, compilation, billing, and collection services ",All Establishments ,Employer Firms ,"6,623","5,757","5,739",9.5,12.1,10.7
+56299,All Other Waste Management Services ,Total operating revenue ,All Establishments ,Employer Firms ,"4,689","4,126","3,750",5,5.3,5
+5172,Wireless Telecommunications Carriers (except Satellite)3 ,Telecommunication network installation services ,All Establishments ,Employer Firms ,160,S,S,7.9,S,S
+D ,Estimate in table is withheld to avoid disclosing data of individual companies; data are included in higher level totals. ,,,,,,,,,
+712,"Museums, Historical Sites, and Similar Institutions ",All other non-operating revenue ,Establishments exempt from federal income tax ,Employer Firms ,"1,460","1,315","1,533",5.3,11.5,5.9
+51219,Postproduction Services and Other Motion Picture and Video Industries ,Motion picture film laboratory services ,All Establishments ,Employer Firms ,S,320,419,S,3.6,2.4
+54161,Management Consulting Services10 ,"Operations and supply chain management consulting, and consulting combined with implementation ",All Establishments ,Employer Firms ,"7,961","8,133","8,035",6.2,8.2,7.2
+5231X ,Commodity Contracts Dealing and Brokerage8 ,Brokering and dealing foreign currency fees - Wholesale ,All Establishments ,Employer Firms ,858,871,810,7.9,7,6
+483,Water Transportation ,Participatory recreational services by water craft ,All Establishments ,Employer Firms ,S,S,S,S,S,S
+6211,Offices of Physicians ,Patient out-of-pocket - Patients' assigned Social Security benefits ,All Establishments ,Employer Firms ,"1,862","1,497","1,485",17.2,17.2,20.9
+6219,Other Ambulatory Health Care Services ,All other non-patient care revenue ,All Establishments ,Employer Firms ,"4,627","4,868","4,590",3.4,2.3,2.2
+518,"Data Processing, Hosting, and Related Services5 ",All other operating revenue ,All Establishments ,Employer Firms ,S,"10,746","9,675",S,5.3,5.4
+621498,All Other Outpatient Care Centers ,Patient out-of-pocket - Patients' assigned Social Security benefits ,All Establishments ,Employer Firms ,S,S,79,S,S,12.3
+54131,Architectural Services ,Non-residential building projects ,All Establishments ,Employer Firms ,"17,799","17,903","17,626",7.6,6.8,6.3
+54182,Public Relations Agencies ,Total operating revenue ,All Establishments ,Employer Firms ,"10,931","10,285","10,004",3.9,3.9,3.3
+621498,All Other Outpatient Care Centers ,Investment and property income ,All Establishments ,Employer Firms ,235,239,211,8.7,10.5,9
+54181,Advertising Agencies ,Marketing research ,All Establishments ,Employer Firms ,951,736,565,12.3,5.3,5.2
+5415,Computer Systems Design and Related Services ,IT infrastructure and network management ,All Establishments ,Employer Firms ,"46,602","44,512","41,601",2.2,4.1,4.2
+621498,All Other Outpatient Care Centers ,Patient out-of-pocket - Payments from patients and their families ,All Establishments ,Employer Firms ,"1,546","1,465","1,400",4.6,4.1,3.6
+711219,Other Spectator Sports ,All other operating revenue ,Establishments subject to federal income tax ,Employer Firms ,"3,235","3,339","3,194",12,12.1,9.6
+12,"Excludes NAICS 8131 (Religious Organizations), NAICS 81393 (Labor Unions and Similar Labor Organizations), and NAICS 81394 (Political Organizations). ",,,,,,,,,
+54111,Offices of Lawyers ,"Contributions, gifts, and grants received ",Establishments exempt from federal income tax ,Employer Firms ,"2,228","2,252","2,126",9.5,7.9,7.1
+51219,Postproduction Services and Other Motion Picture and Video Industries ,All other operating revenue ,All Establishments ,Employer Firms ,553,564,535,8.9,8.4,9.2
+5171,Wired Telecommunications Carriers2 ,Website hosting services ,All Establishments ,Employer Firms ,215,292,304,5.8,2.5,3
+5239X ,Portfolio Management and Investment Advice9 ,Financial planning and investment management services for businesses and governments ,All Establishments ,Employer Firms ,"90,679","86,267","76,236",4.1,4.2,4
+5417,Scientific Research and Development Services ,"Basic and applied research in natural and exact sciences, except biological sciences ",Establishments exempt from federal income tax ,Employer Firms ,"1,861","1,740","1,623",3.7,3,3.2
+51112,Periodical Publishers ,Periodicals - subscriptions & sales ,All Establishments ,Employer Firms ,"14,027","12,790","12,608",7.5,7.4,5.9
+6239,Other Residential Care Facilities ,Other patient care revenue ,All Establishments ,Employer Firms ,S,519,504,S,5.6,6.1
+6116,Other Schools and Instruction ,"Occupational, technical, and trade; professional development; and management training programs and courses ",All Establishments ,Employer Firms ,"13,040","12,308","11,428",4.4,4.3,4
+54131,Architectural Services ,Non-residential building projects ,All Establishments ,Employer Firms ,"17,799","17,903","17,626",7.6,6.8,6.3
+5121x ,Motion Picture and Video Production and Distribution1 ,Domestic licensing of rights to television programs ,All Establishments ,Employer Firms ,"12,796","12,355","11,364",8.9,2.6,2.4
+621498,All Other Outpatient Care Centers ,All other non-patient care revenue ,All Establishments ,Employer Firms ,"2,010","2,494","2,375",4.5,3.7,4.1
+6215,Medical and Diagnostic Laboratories ,Hospitals ,All Establishments ,Employer Firms ,"4,184","4,223","4,027",7.2,6.3,6.7
+517911,Telecommunications Resellers4 ,Carrier services ,All Establishments ,Employer Firms ,"2,653","2,525","2,499",5.9,5.9,5.6
+2212,Natural Gas Distribution ,Sales of energy and resources - Water ,All Establishments ,Employer Firms ,D,ZZ,ZZ,D,NA,NA
+5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services ",Taxation preparation and representation services for corporate and other clients ,All Establishments ,Employer Firms ,"13,400","11,998","11,639",6.4,4.4,4.5
+51223,Music Publishers ,All other operating revenue ,All Establishments ,Employer Firms ,159,196,203,5.2,4.7,4.6
+51222,Integrated Record Production/Distribution ,Licensing revenue - Licensing of rights to use musical compositions ,All Establishments ,Employer Firms ,"1,167","1,126","1,040",2.5,2.4,2.4
+5415,Computer Systems Design and Related Services ,IT related training services ,All Establishments ,Employer Firms ,"2,542","2,307","2,349",14,16.2,17.3
+5621,Waste Collection ,Total operating revenue ,All Establishments ,Employer Firms ,"42,370","42,567","41,373",3.7,3,3.2
+51919,All Other Information Services ,Information services ,All Establishments ,Employer Firms ,350,281,272,9.7,9.6,7.7
+6215,Medical and Diagnostic Laboratories ,Outpatient care facilities ,All Establishments ,Employer Firms ,"1,245","1,262","1,310",12.5,10.1,10
+54133,Engineering Services ,Industrial and manufacturing engineering projects ,All Establishments ,Employer Firms ,"33,288","31,502","26,971",8.4,11.1,12.4
+5417,Scientific Research and Development Services ,Production services for development ,Establishments subject to federal income tax ,Employer Firms ,"3,556","2,869","2,470",14.6,27.5,15.4
+6212,Offices of Dentists ,Patient out-of-pocket - Patients' assigned Social Security benefits ,All Establishments ,Employer Firms ,520,631,645,25,21.8,22.9
+5112,Software Publishers ,System software publishing - Operating systems software ,All Establishments ,Employer Firms ,"17,395","16,775","17,721",5.1,2.2,2.2
+484,Truck Transportation ,Motor carrier revenue ,All Establishments ,Employer Firms ,"212,446","198,945","178,938",1.5,1.5,1.5
+486,Pipeline Transportation ,Transportation of refined petroleum by pipeline ,All Establishments ,Employer Firms ,"5,758","5,503","5,206",Z,Z,Z
+62134,"Offices of Physical, Occupational and Speech Therapists and Audiologists ",Patient out-of-pocket - Patients' assigned Social Security benefits ,All Establishments ,Employer Firms ,S,S,S,S,S,S
+56292,Material Recovery Facilities ,Total operating revenue ,All Establishments ,Employer Firms ,"5,068","5,842","4,854",5.3,5.1,5
+54181,Advertising Agencies ,All other operating revenue ,All Establishments ,Employer Firms ,"2,345","2,075","2,022",20.1,13.6,12.5
+62142,Outpatient Mental Health and Substance Abuse Centers ,Patient out-of-pocket - Payments from patients and their families ,All Establishments ,Employer Firms ,744,675,618,10,13,9.9
+5231X ,Commodity Contracts Dealing and Brokerage8 ,All other operating revenue ,All Establishments ,Employer Firms ,"6,278","6,235","5,725",3.9,3.4,4.1
+621491,Other Outpatient Care Centers ,Investment and property income ,All Establishments ,Employer Firms ,563,529,472,1.3,1.3,1.3
+56151,Travel Agencies ,Commissions or fees from other travel arrangement services revenue ,All Establishments ,Employer Firms ,373,483,407,7.4,7.7,9.3
+6232,"Residential Intellectual and Developmental Disability, Mental Health and Substance Abuse Facilities11 ","Government (includes Medicare, Medicaid, Other Government, and Workers Compensation) ",All Establishments ,Employer Firms ,"25,211","24,603","24,106",2.1,1.8,1.6
+51113,Book Publishers ,Total operating revenue ,All Establishments ,Employer Firms ,"27,489","27,968","28,121",2.1,1.6,1.4
+51114,Directory and Mailing List Publishers ,Rental or sale of mailing lists ,All Establishments ,Employer Firms ,S,118,127,S,29.4,26.4
+5121x ,Motion Picture and Video Production and Distribution1 ,Total operating revenue ,All Establishments ,Employer Firms ,"66,235","63,840","62,567",2.6,1.7,1.8
+6219,Other Ambulatory Health Care Services ,Patient out-of-pocket - Patients' assigned Social Security benefits ,All Establishments ,Employer Firms ,22,19,17,10,9.6,7.5
+9,Includes NAICS 52392 (Portfolio Management) and NAICS 52393 (Investment Advice). ,,,,,,,,,
+71311,Amusement and Theme Parks ,Total operating revenue ,Establishments subject to federal income tax ,Employer Firms ,"14,021","13,283","12,197",1.1,1.1,0.6
+51224,Sound Recording Studios ,Studio recording ,All Establishments ,Employer Firms ,614,613,605,5.7,6,5.8
+62131,Offices of Chiropractors ,Patient out-of-pocket - Payments from patients and their families ,All Establishments ,Employer Firms ,"3,429","3,146","3,041",2.9,2.4,2.3
+483,Water Transportation ,Transportation of freight and cargo by water ,All Establishments ,Employer Firms ,"18,764","18,638","17,369",1.3,1,1
+54111,Offices of Lawyers ,Total operating revenue ,Establishments exempt from federal income tax ,Employer Firms ,"3,111","3,128","3,025",6.6,5,3.6
+515111,Radio Networks ,National/regional/local air time ,All Establishments ,Employer Firms ,"1,135","1,049","1,118",4.1,4.8,4.1
+622,Hospitals ,"Private insurance (includes Health, Property, and Auto) ",All Establishments ,Employer Firms ,"397,251","373,264","358,206",1.7,2,1.9
+6215,Medical and Diagnostic Laboratories ,Patient out-of-pocket ,All Establishments ,Employer Firms ,"2,852","2,889","2,795",4.5,4.2,3.5
+622,Hospitals ,Other patient care revenue ,All Establishments ,Employer Firms ,"67,653","65,543","57,333",8.2,8.8,10.3
+54133,Engineering Services ,Industrial and manufacturing engineering projects ,All Establishments ,Employer Firms ,"33,288","31,502","26,971",8.4,11.1,12.4
+621491,Other Outpatient Care Centers ,All other non-patient care revenue ,All Establishments ,Employer Firms ,13,21,15,1.4,1.3,1.2
+5112,Software Publishers ,Application software publishing - Vertical market application software ,All Establishments ,Employer Firms ,"8,231","8,782","8,263",17.1,11.6,11
+6117,Educational Support Services ,"Occupational, technical, and trade; professional development; and management training programs and courses ",All Establishments ,Employer Firms ,"10,697","10,191","9,510",2.8,2.9,2.7
+54181,Advertising Agencies ,Advertising creative services (including graphic design services) ,All Establishments ,Employer Firms ,"2,304","1,970","1,844",21.4,14.3,11.3
+51911,News Syndicates ,Licensing of rights to use syndicated media content ,All Establishments ,Employer Firms ,"1,758","1,740","1,614",5.4,4.4,4.5
+621391,Offices of Podiatrists ,"Private insurance (includes Health, Property, and Auto) ",All Establishments ,Employer Firms ,"1,959","1,860","1,842",3.8,4,3.7
+5174,Satellite Telecommunications ,Private network services ,All Establishments ,Employer Firms ,"1,843","1,729",S,3.9,4,S
+51913,Internet Publishing and Broadcasting and Web Search Portals6 ,Total operating revenue ,All Establishments ,Employer Firms ,"57,534","48,487","41,725",3,2.9,2.5
+54181,Advertising Agencies ,Integrated advertising services ,All Establishments ,Employer Firms ,"20,284","17,897","16,747",6.1,8,7.4
+5171,Wired Telecommunications Carriers2 ,Carrier services ,All Establishments ,Employer Firms ,"18,722","19,534","18,967",1.8,2.1,2.6
+5112,Software Publishers ,Application software publishing - Utilities application software ,All Establishments ,Employer Firms ,"2,949","3,302","2,670",11.8,13.4,15.7
+51919,All Other Information Services ,All other operating revenue ,All Establishments ,Employer Firms ,443,396,381,14.8,12.9,10.2
+511199,All Other Publishers ,All other operating revenue ,All Establishments ,Employer Firms ,"1,388","1,306","1,299",9.2,6.4,5.9
+51911,News Syndicates ,Licensing of rights to use syndicated media content ,All Establishments ,Employer Firms ,"1,758","1,740","1,614",5.4,4.4,4.5
+518,"Data Processing, Hosting, and Related Services5 ",Information technology (IT) technical support services ,All Establishments ,Employer Firms ,"3,138","2,853","2,607",11.7,10.1,8.5
+56299,All Other Waste Management Services ,"Nonhazardous waste and recyclable material consolidation, storage, and preparation services ",All Establishments ,Employer Firms ,S,319,264,S,9.4,10.3
+51113,Book Publishers ,"Books - professional, technical, and scholarly books ",All Establishments ,Employer Firms ,"4,417","4,246","4,365",3.8,4.5,4.4
+515112,Radio Stations ,National/regional/local air time ,All Establishments ,Employer Firms ,"10,651","10,241","10,315",2.4,2.2,2.1
+62134,"Offices of Physical, Occupational and Speech Therapists and Audiologists ",All other non-patient care revenue ,All Establishments ,Employer Firms ,503,571,503,12.2,11.9,12.8
+56151,Travel Agencies ,Commissions or fees from other travel arrangement services revenue ,All Establishments ,Employer Firms ,373,483,407,7.4,7.7,9.3
+54186,Direct Mail Advertising ,Mail list creation and support services ,All Establishments ,Employer Firms ,446,410,414,20.2,15.5,15.4
+54131,Architectural Services ,Total operating revenue ,All Establishments ,Employer Firms ,"26,994","27,044","26,050",6.2,5.5,4.9
+6216,Home Health Care Services ,Patient out-of-pocket - Patients' assigned Social Security benefits ,All Establishments ,Employer Firms ,31,24,27,16.4,2.7,2.5
+5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services ",General accounting services ,All Establishments ,Employer Firms ,"6,574","5,987","6,306",9.7,10.3,11.4
+6,"Includes 2002 NAICS 516 (Internet Publishing and Broadcasting) and 2002 NAICS 518112 (Web Search Portals).  Historical data, 2010 and prior, have been restated to reflect comparable data on the 2007 NAICS basis. ",,,,,,,,,
+5121x ,Motion Picture and Video Production and Distribution1 ,"Sale of audiovisual works for the wholesale, retail, and rental markets ",All Establishments ,Employer Firms ,"11,106","11,365","11,121",2.2,2.1,2.1
+2211,"Electric Power Generation, Transmission and Distribution ",Sewer system user charges ,All Establishments ,Employer Firms ,20,19,32,Z,3.6,0.2
+621492,Kidney Dialysis Centers ,Total operating revenue ,All Establishments ,Employer Firms ,"18,900","17,270","16,447",3.1,2.8,2.3
+6211,Offices of Physicians ,"Government (includes Medicare, Medicaid, Other Government, and Workers Compensation) ",All Establishments ,Employer Firms ,"107,841","103,814","98,652",2,2.2,1.9
+518,"Data Processing, Hosting, and Related Services5 ",Information and document transformation services ,All Establishments ,Employer Firms ,"2,376","2,174","2,085",12.5,8.5,8.2
+6231,Nursing Care Facilities (Skilled Nursing Facilities)11 ,"Contributions, gifts, and grants received ",All Establishments ,Employer Firms ,421,387,344,14.2,19.8,17
+6215,Medical and Diagnostic Laboratories ,Outpatient care facilities ,All Establishments ,Employer Firms ,"1,245","1,262","1,310",12.5,10.1,10
+51224,Sound Recording Studios ,All other operating revenue ,All Establishments ,Employer Firms ,230,205,184,11.5,10.4,8.8
+511199,All Other Publishers ,Total operating revenue ,All Establishments ,Employer Firms ,"1,827","1,742","1,755",8.5,6.1,5.5
+5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services ",Management consulting services ,All Establishments ,Employer Firms ,"10,937","9,291","8,026",4.5,4,4.2
