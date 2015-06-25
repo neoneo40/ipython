@@ -27,15 +27,15 @@
 
 ## IPython으로 정리한 내용
 
-- [07.Pattern Matching with Regular Expressions](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch07.ipynb)
-- [08.Reading and Writing Files](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch08.ipynb)
-- [09.Organizing Files](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch09.ipynb)
-- [10.Debugging](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch10.ipynb)
-- [11.Web Scraping](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch11.ipynb)
-- [12.Working with Excel Spreadsheets](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch12.ipynb)
-- [13.Working with PDF and Word Documents](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch13.ipynb)
-- [14.Working with CSV Files and JSON Data](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch14.ipynb)
-- [15.Time, Scheduling Tasks, and Launching Programs](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch15.ipynb)
-- [16.Sending Email and Text Messages](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch16.ipynb): Not update. because privacy
-- [17.Manipulating Images](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch17.ipynb)
-- [18.Controlling the Keyboard and Mouse with GUI Automation](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch18.ipynb)
+- [07. Pattern Matching with Regular Expressions](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch07.ipynb)
+- [08. Reading and Writing Files](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch08.ipynb)
+- [09. Organizing Files](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch09.ipynb)
+- [10. Debugging](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch10.ipynb)
+- [11. Web Scraping](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch11.ipynb)
+- [12. Working with Excel Spreadsheets](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch12.ipynb)
+- [13. Working with PDF and Word Documents](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch13.ipynb)
+- [14. Working with CSV Files and JSON Data](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch14.ipynb)
+- [15. Time, Scheduling Tasks, and Launching Programs](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch15.ipynb)
+- [16. Sending Email and Text Messages](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch16.ipynb): Not update. because privacy
+- [17. Manipulating Images](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch17.ipynb)
+- [18. Controlling the Keyboard and Mouse with GUI Automation](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/ch18.ipynb)
