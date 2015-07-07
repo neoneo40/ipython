@@ -21,3 +21,5 @@
 
 - [Mismatched Brackets](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Algorithmic_Problem_Solving_Strategies/problems/BRACKETS2.ipynb): stack 관련 문제
 - [Josephus](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Algorithmic_Problem_Solving_Strategies/problems/JOSEPHUS.ipynb)
+- [Lock Festival](https://github.com/re4lfl0w/ipython/blob/master/books/Algorithmic_Problem_Solving_Strategies/problems/lock_festival.ipynb)
+- [Sorting_Searching](https://github.com/re4lfl0w/ipython/blob/master/books/Algorithmic_Problem_Solving_Strategies/Sorting_Searching.ipynb)
