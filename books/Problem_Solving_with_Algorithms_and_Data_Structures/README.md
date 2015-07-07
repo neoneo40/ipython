@@ -13,9 +13,10 @@
 
 ## IPython으로 정리한 내용
 
-- [1. Introduction](): 진행중
+- [1. Introduction](https://github.com/re4lfl0w/ipython/blob/master/books/Problem_Solving_with_Algorithms_and_Data_Structures/ch01.ipynb)
 - [2. Analysis](): 진행중
 - [3. Basic Data Structures](): 진행중
 - [4. Recursion](): 진행중
-- [5. Sorting and Searching](): 진행중
+- [5-1. Sorting and Searching](https://github.com/re4lfl0w/ipython/blob/master/books/Problem_Solving_with_Algorithms_and_Data_Structures/ch05_Search_Sort.ipynb)
+- [5-2. Compare between sequential and binary search](https://github.com/re4lfl0w/ipython/blob/master/books/Problem_Solving_with_Algorithms_and_Data_Structures/ch05_compare_sequential_binary_search.ipynb)
 - [6. Trees and Tree Algorithms](): 진행중
