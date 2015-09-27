@@ -25,3 +25,10 @@
 
 ## 이 책을 공부하면서 정리한 Notebooks
 
+- [1장 모델-뷰-컨트롤러](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Python_Design_Patterns/ch01.ipynb)
+- [2장 싱글턴 패턴을 사용해 유일 객체 생성하기](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Python_Design_Patterns/ch02.ipynb)
+- [3장 객체 생성 팩토리 만들기](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Python_Design_Patterns/ch03.ipynb)
+- [4장 퍼사드 디자인 패턴](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Python_Design_Patterns/ch04.ipynb)
+- [5장 프록시와 옵저버 패턴으로 객체 간 통신하기](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Python_Design_Patterns/ch05.ipynb)
+- [6장 커맨드 패턴으로 호출 캡슐화하기](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Python_Design_Patterns/ch06.ipynb)
+- [7장 템플릿 메소드로 알고리즘 재정의하기](http://nbviewer.ipython.org/github/re4lfl0w/ipython/blob/master/books/Python_Design_Patterns/ch07.ipynb)
